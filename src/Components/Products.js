@@ -1,6 +1,6 @@
 import React from 'react'
-import Product from './Product'
-import './Products.css'
+import Product from "./Product"
+import './Product.css'
 
 function Products(props) {
     const {productData, handleClick} = {...props}
